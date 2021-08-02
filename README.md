@@ -12,3 +12,5 @@ To run the development server:
 ```
 npm run dev
 ```
+
+This will then listen on http://localhost:3080/ and requires the nukellogg/game-client-socketio client to communicate with it.
